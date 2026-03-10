@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ATM-Management-System-main"/>
+	<classpathentry kind="lib" path="C:/Users/BOSSP/OneDrive/Desktop/jcalendar-1.4/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="ATM-Management-System-main"/>
+</classpath>
